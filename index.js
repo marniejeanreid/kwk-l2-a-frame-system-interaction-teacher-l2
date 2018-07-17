@@ -10,5 +10,6 @@ function main() {
   GAME.spawnBall()
 }
 
+function 
 
 SCENE.addEventListener('loaded', main())
